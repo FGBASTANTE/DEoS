@@ -13,7 +13,7 @@ Giráldez*. [DOI: 10.1039/D2CP00085G Phys. Chem. Chem. Phys., 2022, 24, 8189-819
 *CINTECX, GESSMin Group, Department of Natural Resources
 and Environmental Engineering (EEME), University of Vigo, Pontevedra, Spain
 
-Data Inputs (example):
+Data Inputs (example in the script):
 -    name = "PBX9502" # the name of explosive without blanks
 -    rho = 1.90  # density in g/cc (must be >1g//cc)
 -    C = 2.30    # number of moles
