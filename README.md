@@ -7,7 +7,8 @@ approximation of the detonation velocity equation. Please see:
     
 Predictive model of explosive detonation parameters from an equation of state
 based on detonation velocity. Fernando G. Bastante*, María Araújo* and Eduardo
-Giráldez*. DOI: 10.1039/D2CP00085G Phys. Chem. Chem. Phys., 2022, 24, 8189-8195
+Giráldez*. [DOI: 10.1039/D2CP00085G Phys. Chem. Chem. Phys., 2022, 24, 8189-8195]
+(https://doi.org/10.1039/D2CP00085G)
 
 *CINTECX, GESSMin Group, Department of Natural Resources
 and Environmental Engineering (EEME), University of Vigo, Pontevedra, Spain
