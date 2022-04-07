@@ -1,5 +1,6 @@
 # DEoS
-##PREDICTIVE MODEL FOR EXPLOSIVE DETONATION PARAMETERS\n
+PREDICTIVE MODEL FOR EXPLOSIVE DETONATION PARAMETERS
+
 In this script is implemented the DEoS model, a predictive model of explosive
 detonation velocity and pressure based on first order
 approximation of the detonation velocity equation. Please see:
@@ -23,8 +24,10 @@ Data Inputs (example):
 -    filename = "PBX9502_1.90" # filename for saving results
 
 The script can read datainputs from cli...:
- -   python deos.py name rho C H N O W HR outputfilename 
+ -   python deos.py name rho C H N O W HR outputfilename
+
 example:
  -   python deos.py PBX9502 1.90 2.30 2.23 2.21 2.21 3.81 -205.5 out_pbx9052 
+
 the units are:
 -        ........  string, g/cc, mol, mol, mol, mol, %weight, cal/g, string
