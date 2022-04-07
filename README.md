@@ -32,3 +32,5 @@ example:
 
 the units are:
 -        ........  string, g/cc, mol, mol, mol, mol, %weight, cal/g, string
+
+...or you can introduce them in the script
