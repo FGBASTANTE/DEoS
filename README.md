@@ -37,10 +37,25 @@ the units are:
 
 Some results
 +500 data
+
 ![image](https://user-images.githubusercontent.com/52360383/164480516-2752e152-155b-45fd-9b8d-4a0275497431.png)
 
 
 +250 data
+
 ![image](https://user-images.githubusercontent.com/52360383/164482623-50d5769a-f7b4-4eea-8ac8-26f7d34cc66d.png)
+
+NQ
+
+![image](https://user-images.githubusercontent.com/52360383/164490428-9ddc84a0-23ed-4103-94a3-ef0c6cdf9ba5.png)
+
+![image](https://user-images.githubusercontent.com/52360383/164486567-43b7c7fb-2924-4343-b2c1-4f4661ad1df7.png)
+
+COMPOSITES RDX/TNT
+
+![image](https://user-images.githubusercontent.com/52360383/164491432-3120a366-45ba-4e74-91c8-a1d1a4d88cc2.png)
+
+![image](https://user-images.githubusercontent.com/52360383/164489150-8486c327-5bb3-41b2-a8ef-44145a1f7553.png)
+
 
 
