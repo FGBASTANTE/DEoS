@@ -34,3 +34,13 @@ the units are:
 -        ........  string, g/cc, mol, mol, mol, mol, %weight, cal/g, string
 
 ...or you can introduce them in the script
+
+Some results
++500 data
+![image](https://user-images.githubusercontent.com/52360383/164480516-2752e152-155b-45fd-9b8d-4a0275497431.png)
+
+
++250 data
+![image](https://user-images.githubusercontent.com/52360383/164482623-50d5769a-f7b4-4eea-8ac8-26f7d34cc66d.png)
+
+
